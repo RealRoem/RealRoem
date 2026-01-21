@@ -44,6 +44,11 @@ My current sideproject is a .NET SaaS Web solution for small businesses.
 
 ---
 
-## GitHub Activity
+## Activity
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RealRoem/RealRoem/output/snake-dark.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/RealRoem/RealRoem/output/snake.svg" />
+  </picture>
+</p>
 
-<img src="https://github.com/Platane/snk"/>
