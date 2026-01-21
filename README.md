@@ -4,8 +4,8 @@
 
 ### About
 I am a software engineering student with a strong interest in frontend development, software architecture and social media.
-I also work as a part-time YouTuber where I script, record, edit and publish.
-I am also currently working on a .NET SaaS business solution.
+I also work as a part-time YouTuber where I script, record, edit and publish both long- and short-form videos.
+My current sideproject is a .NET SaaS Web solution for small businesses.
 
 - 🎓 BSc Software Engineering — University of Agder  
 - 🌱 Currently learning: **React Native, R, Assembly**  
