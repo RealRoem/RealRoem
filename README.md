@@ -1,34 +1,26 @@
-<h1 align="center">Emanuel Rønningsland</h1>
-<p align="center">
-Software Engineering Student · University of Agder
-</p>
+<img src="https://raw.githubusercontent.com/RealRoem/RealRoem/main/Github%20profile.png" width="100%" />
 
 ---
 
 ### About
-I am a software engineering student with a strong interest in backend development, system design, and robust web solutions.  
-Currently focusing on **.NET web development**, databases, and clean architecture.
+I am a software engineering student with a strong interest in frontend development, software architecture and social media.
+I also work as a part-time YouTuber where I script, record, edit and publish.
+I am also currently working on a .NET SaaS business solution.
 
 - 🎓 BSc Software Engineering — University of Agder  
-- 🌱 Currently learning: **ASP.NET Core, EF Core, Web Architecture**  
+- 🌱 Currently learning: **React Native, R, Assembly**  
 - 📫 Contact: **roem0805@gmail.com**
 
 ---
 
 ### Tech Stack
 **Languages**
-- C#, C++, C, Python, JavaScript
-
-**Frameworks & Platforms**
-- .NET / ASP.NET Core
-- HTML, CSS
-
-**Databases**
-- MySQL
+- C, C++, C#, Python, JavaScript, TypeScript, React (soon), R (soon), SQL
 
 **Tools**
 - Git, GitHub
-- Photoshop (basic UI / assets)
+- Photoshop, Premiere Pro, Audition, Lightroom, OBS
+- Enterprise Architect
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="36"/>
