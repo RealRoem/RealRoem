@@ -1,24 +1,22 @@
 <img src="https://raw.githubusercontent.com/RealRoem/RealRoem/main/Github%20profile.png" width="100%" alt="banner" />
 
-<p align="center">
-  <a href="mailto:roem0805@gmail.com">roem0805@gmail.com</a> •
-  <a href="https://www.youtube.com/c/real_roem">YouTube</a> •
-  <a href="https://discord.gg/QTK9FX3KSf">Discord</a>
-</p>
 
----
+## About me
+I am a second year student for bachelor in software engineering at University of Agder.
+I work with both back- and front-end development, software architecture and design.
+My current sideproject is a .NET SaaS Web solution for small businesses. I am currently learning React Native and R.
 
-## About
-I am a software engineering student with a strong interest in frontend development, software architecture and social media.
 I also work as a part-time YouTuber where I script, record, edit and publish both long- and short-form videos.
-My current sideproject is a .NET SaaS Web solution for small businesses.
 
-- 🎓 BSc Software Engineering - University of Agder  
-- 🧠 Focus: Frontend, software architecture, data engineering  
-- 🚀 Current: .NET SaaS web solution for small businesses  
-- 🌱 Learning: React Native, R, Assembly  
+### My hobbies
+- 🎵 Singing and playing piano/guitar
+- 💪 Working out and playing Volleyball
+- 💰 Finance and investing
+- 📖 Reading self-help books
+- 🎮 Playing video games (Love Stardew Valley)
+- 🎥 Making YouTube videos
 
----
+<br>
 
 ## Tech Stack
 
@@ -37,12 +35,11 @@ My current sideproject is a .NET SaaS Web solution for small businesses.
 </p>
 
 ### Tools
-- Git & GitHub
-- Adobe: Photoshop, Premiere Pro, Audition, Lightroom
-- OBS
-- Enterprise Architect
+- **YouTube**: Photoshop, Premiere Pro, Audition, OBS
+- **Developing**: Enterprise Architect, Sourcetree
+- **Other**: Notion
 
----
+<br>
 
 ## Activity
 <p align="center">
@@ -52,3 +49,9 @@ My current sideproject is a .NET SaaS Web solution for small businesses.
   </picture>
 </p>
 
+
+<p align="center">
+  <a href="mailto:roem0805@gmail.com">roem0805@gmail.com</a> •
+  <a href="https://www.youtube.com/c/real_roem">YouTube</a> •
+  <a href="https://discord.gg/QTK9FX3KSf">Discord</a>
+</p>
