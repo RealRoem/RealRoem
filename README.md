@@ -29,7 +29,7 @@ I also work as a part-time YouTuber where I script, record, edit and publish bot
 ### Tools
 - **YouTube**: Photoshop, Premiere Pro, Audition, OBS
 - **Developing**: Enterprise Architect, Sourcetree
-- **Other**: Notion
+- **Productivity**: Notion, Trello, OverLeaf
 
 <br>
 
