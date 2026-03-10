@@ -8,14 +8,6 @@ My current sideproject is a .NET SaaS Web solution for small businesses. I am cu
 
 I also work as a part-time YouTuber where I script, record, edit and publish both long- and short-form videos.
 
-### My hobbies
-- 🎵 Singing and playing piano/guitar
-- 💪 Working out and playing Volleyball
-- 💰 Finance and investing
-- 📖 Reading self-help books
-- 🎮 Playing video games (Love Stardew Valley)
-- 🎥 Making YouTube videos
-
 <br>
 
 ## Tech Stack
